@@ -1,0 +1,1 @@
+setx NEWVAR SOMETHING4
